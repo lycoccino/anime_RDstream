@@ -247,11 +247,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction...
 ```
-
-## 🤝 Contribuições
-
-Encontrou um bug? Tem sugestão? Abra uma issue! PR's são bem-vindas! 🎉
-
 ---
 
 **Made with ❤️ and anime by Lycoccino** ✨
